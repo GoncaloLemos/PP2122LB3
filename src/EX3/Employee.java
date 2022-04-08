@@ -4,6 +4,9 @@ import java.util.Date;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * @author Pedro Simões & Gonçalo Lemos
+ */
 public class Employee {
     /**
      * The maximum number of pieces an employee can create per shift.

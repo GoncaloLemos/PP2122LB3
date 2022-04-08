@@ -3,6 +3,9 @@ package EX4;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * @author Pedro Simões & Gonçalo Lemos
+ */
 public class TestEmployees {
     public static void main(String[] args) {
         Employee M = new Employee("Manuel", 3000);

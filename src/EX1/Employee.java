@@ -1,5 +1,8 @@
 package EX1;
 
+/**
+ * @author Pedro Simões & Gonçalo Lemos
+ */
 public class Employee extends Thread {
     /**
      * The maximum number of pieces an employee can create per shift.

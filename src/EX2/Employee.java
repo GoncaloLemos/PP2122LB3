@@ -1,5 +1,7 @@
 package EX2;
-
+/**
+ * @author Pedro Simões & Gonçalo Lemos
+ */
 public class Employee implements Runnable {
     /**
      * The maximum number of pieces an employee can create per shift.
